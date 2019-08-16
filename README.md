@@ -2,7 +2,7 @@
 
 > My magnificent Nuxt.js project
 
-![demo](https://raw.github.com/wiki/suwa3/nuxt.Rabbit-game.wiki/Image/Rabbt-game.0816.gif)
+![demo](https://raw.githubusercontent.com/wiki/suwa3/nuxt.Rabbit-game/Image/Rabbt-game.0816.gif)
 
 
 
