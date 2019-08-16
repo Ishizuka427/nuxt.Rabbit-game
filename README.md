@@ -2,6 +2,10 @@
 
 > My magnificent Nuxt.js project
 
+![demo](https://raw.github.com/wiki/suwa3/nuxt.Rabbit-game.wiki/Image/Rabbt-game.0816.gif)
+
+
+
 ## Build Setup
 
 ``` bash
