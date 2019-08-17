@@ -3,6 +3,14 @@
   <head>
     <meta charset="utf-8">
     <title>Rabbit-game</title>
+    
+  </head>
+      <p>POINT: <span id="point"></span></p>
+      <button onclick="location.reload()">CONTINUE</button>
+      <div class="game">
+
+
+      </div>
 
 </script>
 
