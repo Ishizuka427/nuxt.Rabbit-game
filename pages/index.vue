@@ -36,36 +36,34 @@ export default {
 </script>
 
 <style>
- body {
-        display: flex;
-      }
-      p {
-      text-align: center;
-      }
-      .game {
-        left: 0px;
-        margin: auto;
-      }
-      .box {
-        width: 100px;
-        height: 100px;
-        background: skyblue;
-        cursor: pointer;
-        transition: 0.8s;
-        margin: 0 8px 8px 0;
-        text-align: center;
-        line-height: 100px;
-      }
-      .win {
-        background-image: url("./img/usagi.png");
-        background-size: 100px;
-        border-radius: 50%;
-        transform: rotate(360deg);
-      }
-      .lose {
-        background-image: url("./img/yagi.png");
-        background-size: 100px;
-        border-radius: 50%;
-        transform: scale(0.9);
-      }
-      </style>
+.container {
+  margin: 0 auto;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.title {
+  font-family: 'Quicksand', 'Source Sans Pro', -apple-system, BlinkMacSystemFont,
+    'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+  display: block;
+  font-weight: 300;
+  font-size: 100px;
+  color: #35495e;
+  letter-spacing: 1px;
+}
+
+.subtitle {
+  font-weight: 300;
+  font-size: 42px;
+  color: #526488;
+  word-spacing: 5px;
+  padding-bottom: 15px;
+}
+
+.links {
+  padding-top: 15px;
+}
+</style>
